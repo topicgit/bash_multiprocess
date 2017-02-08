@@ -1,0 +1,10 @@
+ls=-l=/tmp/1
+ls=-l=/tmp/2
+ls=-l=/tmp/3
+ls=-l=/tmp/4
+ls=-l=/tmp/5
+ls=-l=/tmp/6
+ls=-l=/tmp/7
+ls=-l=/tmp/8
+ls=-l=/tmp/9
+ls=-l=/tmp/10
